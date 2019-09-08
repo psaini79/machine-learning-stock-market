@@ -1,5 +1,5 @@
-# machine-learning-stock-market
-Machine learning tools and techniques for analyzing stock market
+# Machine Learning for Stock Market
+Machine learning tools and techniques for analyzing stock market.
 
 This project contains tools and techniques to analyze the stock mark. It is divided into following sctions:
 
